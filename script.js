@@ -11,7 +11,7 @@ const person = {
 
 const contact ={
     contact_no: "+97145487687",
-    whatsapp: "+971562108012",
+    whatsapp: "+971562806026",
     location: "https://maps.app.goo.gl/VjCtQbDWKDZjTSt46",
     email: "Naufaltyping@gmail.com",
 };
